@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "shopmalty",
+    "category": "Multi-Vendor E-Commerce",
+    "image": "/image/shopmalty.png",
+    "description": "ShopMalty – Multi Vendor E-Commerce Marketplace is a full-stack web based application which will allow multiple vendors, shops, products, orders and finances to be managed.",
+    "details": "ShopMalty was created to help manage the multiple vendors within an e-commerce marketplace. The main concept of the project was to create a central platform for multiple sellers, customers and admins.The system allows for Super Admins, Sellers and Customers to have unique dashboards. It also allows for sellers to be verified, products be approved, shops, orders and seller finances to be managed.This project aims to make the marketplace more organised and easy to manage",
+    "technologies": ["React", "Node.js", "MongoDB", "Tailwind CSS"],
+    "liveLink": "https://shopmalty.shop",
+    "githubLink": "https://github.com/minhazroot"
+  },
+  {
+    "id": 2,
+    "name": "Traveling World",
+    "category": "Travel",
+    "image": "/projects/traveling-world.png",
+    "description": "A travel discovery application that helps users explore destinations and discover information about countries around the world.",
+    "details": "A responsive travel application featuring country information, destination exploration, country details, and interactive user experiences.",
+    "technologies": ["React", "TypeScript", "API", "Tailwind CSS"],
+    "liveLink": "https://example.com",
+    "githubLink": "https://github.com/minhazroot/Traveling_world"
+  },
+  {
+    "id": 3,
+    "name": "Bazardor",
+    "category": "Marketplace",
+    "image": "/projects/bazardor.png",
+    "description": "A modern multi-vendor marketplace concept designed to connect buyers and sellers through an intuitive shopping experience.",
+    "details": "A multi-vendor e-commerce marketplace with a focus on product discovery, vendor functionality, responsive layouts, and user-friendly shopping.",
+    "technologies": ["Next.js", "TypeScript", "MongoDB", "Tailwind CSS"],
+    "liveLink": "https://example.com",
+    "githubLink": "https://github.com/minhazroot"
+  },
+  {
+    "id": 4,
+    "name": "FitLog",
+    "category": "Health & Fitness",
+    "image": "/projects/fitlog.png",
+    "description": "A fitness tracking application designed to help users manage workouts, monitor progress, and maintain healthy routines.",
+    "details": "FitLog is a fitness web application focused on workout management, tracking personal fitness activities, and providing a clean responsive interface.",
+    "technologies": ["React", "Node.js", "REST API", "Tailwind CSS"],
+    "liveLink": "https://example.com",
+    "githubLink": "https://github.com/minhazroot"
+  },
+  {
+    "id": 5,
+    "name": "Book Haven",
+    "category": "Book Management",
+    "image": "/projects/book-haven.png",
+    "description": "A book discovery and management platform where readers can explore books and organize their reading lists.",
+    "details": "A book management application featuring book discovery, book details, reading lists, wishlist management, and a responsive interface.",
+    "technologies": ["Next.js", "TypeScript", "React", "Tailwind CSS"],
+    "liveLink": "https://example.com",
+    "githubLink": "https://github.com/minhazroot"
+  },
+  {
+    "id": 6,
+    "name": "Portfolio Website",
+    "category": "Portfolio",
+    "image": "/projects/portfolio.png",
+    "description": "A personal portfolio showcasing my skills, educational background, projects, and journey as a developer.",
+    "details": "My personal portfolio website designed to introduce myself, highlight technical skills, showcase projects, and provide contact information.",
+    "technologies": ["Next.js", "TypeScript", "Tailwind CSS", "React"],
+    "liveLink": "https://example.com",
+    "githubLink": "https://github.com/minhazroot"
+  },
+  {
+    "id": 7,
+    "name": "Task Management App",
+    "category": "Productivity",
+    "image": "/projects/task-manager.png",
+    "description": "A productivity application that helps users organize tasks, manage priorities, and keep track of daily activities.",
+    "details": "A task management application focused on organizing daily activities, task completion, prioritization, and productivity.",
+    "technologies": ["React", "TypeScript", "Node.js", "MongoDB"],
+    "liveLink": "https://example.com",
+    "githubLink": "https://github.com/minhazroot"
+  },
+  {
+    "id": 8,
+    "name": "Weather Dashboard",
+    "category": "Web Application",
+    "image": "/projects/weather.png",
+    "description": "A weather dashboard that provides weather information through a clean interface and external API integration.",
+    "details": "A weather application that displays weather information using API integration, location-based searching, and responsive UI components.",
+    "technologies": ["React", "JavaScript", "API", "CSS"],
+    "liveLink": "https://example.com",
+    "githubLink": "https://github.com/minhazroot"
+  },
+  {
+    "id": 9,
+    "name": "Learning Platform",
+    "category": "Education",
+    "image": "/projects/learning-platform.png",
+    "description": "An educational platform concept designed to make learning resources and courses accessible through a modern interface.",
+    "details": "A learning platform interface featuring educational content, course exploration, and a user-friendly design for students and learners.",
+    "technologies": ["Next.js", "TypeScript", "MongoDB", "Tailwind CSS"],
+    "liveLink": "https://example.com",
+    "githubLink": "https://github.com/minhazroot"
+  }
+]

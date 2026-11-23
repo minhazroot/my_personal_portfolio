@@ -4,7 +4,10 @@ import "./globals.css";
 import Navbar from "./components/shared/Navbar";
 import HeroSection from "./components/shared/home/Hero";
 import About from "./components/shared/about/About";
-import Skills from "./components/skills/skills";
+import Skills from "./components/shared/skills/skills";
+import Education from "./components/shared/education/education";
+import Projects from "./components/shared/projects/projects";
+import Footer from "./components/shared/Footer";
 
 
 const geistSans = Geist({
@@ -34,6 +37,9 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
       <HeroSection></HeroSection>
       <About></About>
         <Skills></Skills>
+   <Education></Education>
+   <Projects></Projects>
+   <Footer></Footer>
         {children}
 
        </main>
