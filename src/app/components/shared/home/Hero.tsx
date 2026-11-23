@@ -83,7 +83,7 @@ const HeroSection = () => {
               responsive, and user-friendly web applications. I enjoy solving
               problems, learning new technologies, and turning creative ideas
               into real-world digital experiences.
-            </p>d
+            </p>
 
             {/* Buttons */}
             <div className="flex flex-wrap justify-center gap-4 pt-4 lg:justify-start">

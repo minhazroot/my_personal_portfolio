@@ -3,6 +3,8 @@ import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import Navbar from "./components/shared/Navbar";
 import HeroSection from "./components/shared/home/Hero";
+import About from "./components/shared/about/About";
+import Skills from "./components/skills/skills";
 
 
 const geistSans = Geist({
@@ -30,7 +32,8 @@ export default function RootLayout({ children }: LayoutProps<"/">) {
        <main>
         <Navbar></Navbar> 
       <HeroSection></HeroSection>
-        
+      <About></About>
+        <Skills></Skills>
         {children}
 
        </main>
